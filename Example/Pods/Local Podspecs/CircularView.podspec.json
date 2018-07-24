@@ -1,0 +1,22 @@
+{
+  "name": "CircularView",
+  "version": "0.1.0",
+  "summary": "A short description of CircularView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sbastola722/CircularView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sbastola722": "sbastola123@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sbastola722/CircularView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CircularView/Classes/**/*"
+}

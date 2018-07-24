@@ -13,14 +13,14 @@
 
 /* Begin PBXFileReference section */
 		09C4C4F6D67F84CC0B2D6236 /* Pods_CircularView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CircularView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4609DC5791FC083D0E1F65F5 /* CircularView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CircularView.podspec; path = ../CircularView.podspec; sourceTree = "<group>"; };
+		4609DC5791FC083D0E1F65F5 /* CircularView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CircularView.podspec; path = ../CircularView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACE51AFB9204008FA782 /* CircularView_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CircularView_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		C561302AB1821570D24D288D /* Pods-CircularView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CircularView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CircularView_Tests/Pods-CircularView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		CBB0DE309C30CED4142C7E91 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		CBB0DE309C30CED4142C7E91 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		DCE6DC24170A522250675182 /* Pods-CircularView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CircularView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CircularView_Tests/Pods-CircularView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EDC99B83DED2ACEF7FDB8A3D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		EDC99B83DED2ACEF7FDB8A3D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;
